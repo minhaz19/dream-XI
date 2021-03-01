@@ -1,0 +1,12 @@
+.details-container{
+    box-shadow: 10px 10px 40px rgb(187, 183, 183);
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+.player-img img{
+    width:300px;
+    height: 200px;
+}
